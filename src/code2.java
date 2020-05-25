@@ -7,4 +7,6 @@ public class code2 {
 	private int a;
 
 	private int change;
+
+	private int newBug;
 }
