@@ -9,4 +9,6 @@ public class code2 {
 	private int change;
 
 	private int devChange;
+
+	private int devChange1;
 }
