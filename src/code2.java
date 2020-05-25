@@ -4,5 +4,7 @@
  * @modified By
  */
 public class code2 {
-    private int a;
+	private int a;
+
+	private int change;
 }
