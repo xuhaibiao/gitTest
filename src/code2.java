@@ -10,5 +10,9 @@ public class code2 {
 
 	private int devChange;
 
+<<<<<<< HEAD
 	private int devChange1;
+=======
+	private int devChange2;
+>>>>>>> c567de403929b292b92536d4cc2bf128aee082e0
 }
