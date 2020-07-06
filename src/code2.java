@@ -13,9 +13,7 @@ public class code2 {
 	private int devChange1;
 
 	private int devChange2;
-	
+
 	int now = 1404;
-
-
 
 }
